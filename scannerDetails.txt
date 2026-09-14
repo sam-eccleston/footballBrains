@@ -1,0 +1,3 @@
+TR duration: 1.5
+Number of dummy scans: 4
+Time taken by dummy scans: 6.0
